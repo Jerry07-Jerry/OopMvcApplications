@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Users-Doc/University /Year-4/ASPdotNET/OopMvcApplication/OopMvcApplication.csproj",
+      "projectUniqueName": "/Users/apple/Documents/GitHub/OopMvcApplications/OopMvcApplication/OopMvcApplication.csproj",
       "projectName": "OopMvcApplication",
-      "projectPath": "/Users/Users-Doc/University /Year-4/ASPdotNET/OopMvcApplication/OopMvcApplication.csproj",
+      "projectPath": "/Users/apple/Documents/GitHub/OopMvcApplications/OopMvcApplication/OopMvcApplication.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/Users-Doc/University /Year-4/ASPdotNET/OopMvcApplication/obj/",
+      "outputPath": "/Users/apple/Documents/GitHub/OopMvcApplications/OopMvcApplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"
