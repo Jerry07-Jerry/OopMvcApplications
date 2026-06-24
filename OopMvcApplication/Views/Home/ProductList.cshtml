@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Our Products";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3 text-primary">បញ្ជីមុខទំនិញក្នុងហាង</h2>
+    <ul class="list-group" style="max-width: 500px;">
+        @foreach (var item in ViewBag.Products)
+        {
+            <li class="list-group-item d-flex align-items-center">
+                <i class="fa-solid fa-circle-check text-success me-2"></i>
+                @item
+            </li>
+        }
+    </ul>
+</div>
